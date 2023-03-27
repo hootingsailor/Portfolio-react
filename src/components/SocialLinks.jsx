@@ -1,6 +1,6 @@
 import { FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { BsInstagram } from "react-icons/bs";
+import { CiLinkedin } from "react-icons/ci";
 
 
 const SocialLinks = () => {
@@ -10,10 +10,10 @@ const SocialLinks = () => {
             id: 1,
             child: (
                 <>
-                    Instagram <BsInstagram size={30} />
+                    Linkedin <CiLinkedin size={30} />
                 </>
             ),
-            href: "https://www.instagram.com/tech_defaulters/",
+            href: "https://www.linkedin.com/in/hootingsailor/",
             style: "rounded-tr-md"
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                     Github <FaGithub size={30} />
                 </>
             ),
-            href: "https://github.com/tech-defaulters"
+            href: "https://github.com/hootingsailor"
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={30} />
                 </>
             ),
-            href: "mailto:techdefaulters@gmail.com",
+            href: "mailto:sharmaaakash824@gmail.com",
             style: "rounded-br-md"
         }
     ]
