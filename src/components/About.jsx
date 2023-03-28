@@ -7,10 +7,10 @@ const About = () => {
             <div className="pb-8 ">
                 <h1 className="text-4xl font-bold inline border-b-4 border-gray-500">About</h1>
             </div>
-            <p className="text-xl mt-20">We are a website development company based in India. We do what we do because we love technology. Our services makes it easy for everyone to be online with an attractive, efficient and utilitarian web presence. No innovation limits, no coding - just total opportunity to tell what needs to be done and tackle your entire business on the web.
+            <p className="mt-10">Front-End Developer with a proven ability to collaborate effectively with senior developers while spending extra time to be mentored. Enjoy working closely with team members to ensure workloads are effectively redirected to bottlenecks and personally picking up the slack when necessary. With a passion for both personal growth and for software development, I attended various coding bootcamp to learn new languages while sharpening existing skills.
             </p>
             <br />
-            <p className="text-xl">Our team is made up of developers, all of whom are dedicated to making sure that your projects run smoothly.
+            <p>Ready to apply my passion for coding to a talented engineering team to develop quality solutions.
             </p>
         </div>
     </div>
