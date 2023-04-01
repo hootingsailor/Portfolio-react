@@ -51,7 +51,7 @@ const Experience = () => {
         <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         	<div>
             	<h1 className="text-4xl font-bold inline border-b-4 border-gray-500 p-2">Experience</h1>
-				<p className="py-6">These are some of the technologies that we have worked with along with many more...</p>
+				<p className="py-6">These are some of the technologies that I have worked with along with many more...</p>
           	</div>
 			<div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">
 				{
